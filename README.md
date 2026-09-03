@@ -1,1 +1,1 @@
-# My-Quantum-ZKP
+# Quantum-ZKP
