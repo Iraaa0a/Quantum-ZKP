@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Quantum-ZKP)](https://git.io/typing-svg)
-**Zero‑knowledge proof is a cryptographic function that underpins secure transactions in the blockchain network and other everyday services. This code implements a zero‑knowledge proof function using the Qiskit library (a quantum “assembler”) for a quantum processor. It is divided into three parts: generating a private key, generating a public key, and verifying that the key belongs to the account.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Quantum-ZKP)](https://git.io/typing-svg)
+Zero‑knowledge proof is a cryptographic function that underpins secure transactions in the blockchain network and other everyday services. This code implements a zero‑knowledge proof function using the Qiskit library (a quantum “assembler”) for a quantum processor. It is divided into three parts: generating a private key, generating a public key, and verifying that the key belongs to the account.
 
 # Algorithm architecture
 The algorithm is logically divided into three parts: generating a private key, where we create a hidden sequence of bits, which will be used in the main part to verify that the public key belongs to the account; generating a public key, which serves as a marker for verifying the result; and the main part, which takes the private key as input and produces the public key as output. In the subsequent description of the algorithm, it will be assumed that the length of the private and public keys is 256 bits.
