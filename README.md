@@ -1,5 +1,5 @@
 <h1 align="center">Quantum-ZKP
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Quantum-ZKP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Quantum-ZKP)](https://git.io/typing-svg)
 
 <h3 align="left">Zero‑knowledge proof is a cryptographic function that underpins secure transactions in the blockchain network and other everyday services. This code implements a zero‑knowledge proof function using the Qiskit library (a quantum “assembler”) for a quantum processor. It is divided into three parts: generating a private key, generating a public key, and verifying that the key belongs to the account.
 
